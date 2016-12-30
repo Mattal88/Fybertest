@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Fyber test run">
+    <test name="Top Rated Movies Ranking">
+        <classes>
+            <class name="movieschartpage.TestTopMoviesChart"/>
+        </classes>
+    </test>
+</suite>
