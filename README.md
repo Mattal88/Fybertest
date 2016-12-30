@@ -12,8 +12,9 @@ TestMoviesChartBase is the base class for the above test class
 
 The test class utilizes the page objects and the factory class present in the com.webdriver.pages package
 
-Instructions to run the tests : Clone or fork the project and
+Instructions to run the tests : Clone the project and
 have mozilla firefox browser installed and maven installed on your system.
 
-cd into the base directory and run mvn package
+cd into the base directory and run "mvn package"
+
 All the tests would run for you, please refer the tests for detailed java docs explaining the test steps
