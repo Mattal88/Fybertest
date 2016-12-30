@@ -1,5 +1,7 @@
 Web Automation Challenge Tests of Fyber
 
+Author : Matheen Ali Shaik
+
 This repo contains the tests for
 i) Top 250 page returns at least 1 movie, in the list.
 ii) The previous should be true , for each of the sorting options
